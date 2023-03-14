@@ -10,7 +10,10 @@ N/A
 
 ## Usage
 
-This study guide is designed to assist bootcamp coders in studying HTML, CSS, JavaScript, and Git. Each section provides detailed notes on a specific topic, and the guide suggests one topic to study first to help with time management and focused learning. The guide also utilizes the DevTools console to provide a hands-on learning experience with JavaScript. Overall, this study guide is a comprehensive tool for organized and effective learning.
+This study guide is designed to assist bootcamp coders in studying HTML, CSS, JavaScript, and Git. Each section provides detailed notes on a specific topic, and the guide suggests one topic to study first to help with time management and focused learning. The guide also utilizes the DevTools console to provide a hands-on learning experience with JavaScript. 
+
+For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+
 
 ## Credits
 
