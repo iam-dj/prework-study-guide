@@ -1,11 +1,14 @@
 var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
 var randomTopic = topics[Math.floor(Math.random() * topics.length)];
 
+/*The listTopics function lists out the four subcategories from the prework module 'HTML', 'CSS', 'Git', 'JavaScript' */
 function listTopics() {
     for (var x = 0; x < topics.length; x++) {
         console.log(topics[x]);
     }
 }
+
+/*The selectTopic function randomly lists one of the four subcategories from the prework module 'HTML', 'CSS', 'Git', 'JavaScript' to study */
 
 function selectTopic() {
     if (randomTopic === 'HTML'){
